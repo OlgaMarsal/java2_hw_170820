@@ -1,6 +1,6 @@
 import java.io.Serializable;
 
-public class Cat implements lesson1.SuperJumpable, lesson1.Runnable, Serializable {
+public class Cat implements SuperJumpable, Runnable, Serializable {
     private String name;
 
     public Cat (String name) {

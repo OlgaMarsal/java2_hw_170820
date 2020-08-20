@@ -1,4 +1,4 @@
-public class Robot implements lesson1.SuperJumpable, Jumpable, lesson1.Runnable {
+public class Robot implements SuperJumpable, Jumpable, Runnable {
 
     private String name;
 
